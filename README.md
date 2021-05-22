@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there, I'm junior developer 👋
 - 🔭 Currently working with .Net core
 - 🌱 Learning Kotlin, Android and GoLang
 - 👯 Looking to collaborate on GoLang education
-- 💬 Ask me about everything about .Net core, let's google it together 😄
+- 💬 Ask me everything about .Net core, let's google it together 😄
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiove&langs_count=6" />
 </a>
 
@@ -14,8 +13,8 @@ namespace Life
 {
     public static class Me
     {
-        public static int Age { get; private set; } = 19;
         public static string Name { get; } = "Igor";
+        public static int Age { get; private set; } = 19;
 
         public static List<string> Skills { get; } = new()
         {
@@ -31,11 +30,6 @@ namespace Life
             ("English","Upper-Intermediate"),
             ("Russian", "Native")
         };
-
-        public static void AddAge()
-        {
-            Age++;
-        } 
     }
 }
 ```
