@@ -1,6 +1,6 @@
 ### Hi there, I'm junior developer 👋
 - 🔭 Currently working with .Net core
-- 🌱 Learning Kotlin, Android and GoLang
+- 🌱 Learning GoLang
 - 👯 Looking to collaborate on GoLang education
 - 💬 Ask me everything about .Net core, let's google it together 😄
 
