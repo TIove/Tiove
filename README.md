@@ -25,10 +25,10 @@ namespace Life
             "N-Unit testing"
         };
 
-        public static List<(string, string)> LanguagesAndLevel { get; } = new()
+        public static Dictionary<string, string> LanguagesAndLevel { get; } = new()
         {
-            ("English","Upper-Intermediate"),
-            ("Russian", "Native")
+            {"English","Upper-Intermediate"},
+            {"Russian", "Native"}
         };
     }
 }
