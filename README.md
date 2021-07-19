@@ -27,7 +27,7 @@ namespace Life
 
         public static Dictionary<string, string> LanguagesAndLevel { get; } = new()
         {
-            {"English","Upper-Intermediate"},
+            {"English", "Upper-Intermediate"},
             {"Russian", "Native"}
         };
     }
