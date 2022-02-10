@@ -1,8 +1,6 @@
 ### Hi there, I'm junior developer 👋
-- 🔭 Currently working with .Net core
-- 🌱 Learning GoLang
-- 👯 Looking to collaborate on GoLang education
-- 💬 Ask me everything about .Net core, let's google it together 😄
+- 🔭 Currently working with .Net in Lanit-Tercom
+- 💬 Ask me everything about .Net, let's google it together 😄
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiove&langs_count=7" />
@@ -14,7 +12,7 @@ namespace Life
     public static class Me
     {
         public static string Name { get; } = "Igor";
-        public static int Age { get; private set; } = 19;
+        public static int Age { get; private set; } = 21;
 
         public static List<string> Skills { get; } = new()
         {
