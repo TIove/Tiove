@@ -18,15 +18,15 @@ namespace Life
         {
             ".Net core",
             "Entity framework core",
-            "T-SQL in MySQL",
+            "T-SQL in MSSQL",
             "OOP",
             "N-Unit testing"
         };
 
         public static Dictionary<string, string> LanguagesAndLevel { get; } = new()
         {
-            {"English", "Upper-Intermediate"},
-            {"Russian", "Native"}
+            { "English", "Upper-Intermediate" },
+            { "Russian", "Native" }
         };
     }
 }
