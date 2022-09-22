@@ -1,4 +1,4 @@
-### Hi there, I'm junior developer 👋
+### Hi there, I'm C# developer 👋
 - 🔭 Currently working with .Net in Lanit-Tercom
 - 💬 Ask me everything about .Net, let's google it together 😄
 
