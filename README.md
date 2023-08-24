@@ -1,6 +1,9 @@
-### Hi there, I'm C# developer 👋
-- 🔭 Currently working with .Net in Lanit-Tercom
+### Hi there, I'm Igor 👋
+- 🔭 Currently working as .Net developer in Lanit-Tercom
 - 💬 Ask me everything about .Net, let's google it together 😄
+
+### Contact me
+- ✈️Tg: https://t.me/tioves
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiove&langs_count=7" />
@@ -18,14 +21,16 @@ namespace Life
         {
             ".Net core",
             "Entity framework core",
-            "T-SQL in MSSQL",
+            "MSSQL",
+            "PostgreSQL",
+            "RabbitMQ",
             "OOP",
             "N-Unit testing"
         };
 
         public static Dictionary<string, string> LanguagesAndLevel { get; } = new()
         {
-            { "English", "Upper-Intermediate" },
+            { "English", "Intermediate" },
             { "Russian", "Native" }
         };
     }
